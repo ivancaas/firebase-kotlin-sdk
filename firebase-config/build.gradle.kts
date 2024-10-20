@@ -24,7 +24,7 @@ android {
     namespace = "dev.gitlive.firebase.remoteconfig"
 
     defaultConfig {
-        minSdk = minSdkVersion
+        minSdk = 26
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
